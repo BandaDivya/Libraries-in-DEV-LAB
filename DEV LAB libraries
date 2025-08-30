@@ -1,0 +1,33 @@
+*📚 Python Libraries You Should Know*
+
+*1. NumPy* – *Numerical computing*  
+- Arrays, matrices, broadcasting  
+- Fast operations on large datasets  
+- Useful in data science & ML
+
+*2. Pandas* – *Data analysis & manipulation*  
+- DataFrames and Series  
+- Reading/writing CSV, Excel  
+- GroupBy, filtering, merging
+
+*3. Matplotlib* – *Data visualization*  
+- Line, bar, pie, scatter plots  
+- Custom styling & labels  
+- Save plots as images
+
+*4. Seaborn* – *Statistical plotting*  
+- Built on Matplotlib  
+- Heatmaps, histograms, violin plots  
+- Great for EDA
+
+*5. Requests* – *HTTP library*  
+- Make GET, POST requests  
+- Send headers, params, and JSON  
+- Used in web scraping and APIs
+
+*6. BeautifulSoup* – *Web scraping*  
+- Parse HTML/XML easily  
+- Find elements using tags, class  
+- Navigate and extract data
+
+*7
